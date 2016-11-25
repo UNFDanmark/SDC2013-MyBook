@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:showAsAction="always"
+        android:title="+@string/home"/>
+    <item
+        android:id="@+id/action_addd"
+        android:icon="@drawable/ic_action_addd"
+        android:showAsAction="always"
+        android:title="@string/action_addd"/>
+    <item
+        android:id="@+id/edit_page"
+        android:icon="@drawable/ic_edit_page"
+        android:showAsAction="always"
+        android:title="+@string/edit_page "/>
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete"
+        android:showAsAction="always"
+        android:title="+@string/delete"/>
+
+</menu>
